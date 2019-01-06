@@ -1,2 +1,2 @@
 # MNISTRNN
-Classifying MNIST dataset using RNN
+Classifying MNIST dataset using RNN in PyTorch
